@@ -11,7 +11,7 @@ type
   TForm1 = class(TForm)
     MainMenu1: TMainMenu;
     RadioButton1: TRadioButton;
-    Button1: TButton;
+    BesterButtonEver: TButton;
   private
     { Private-Deklarationen }
   public
