@@ -1,0 +1,26 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object RadioButton1: TRadioButton
+    Position.X = 128.000000000000000000
+    Position.Y = 152.000000000000000000
+    TabOrder = 2
+    Text = 'RadioButton1'
+  end
+  object Button1: TButton
+    Position.X = 264.000000000000000000
+    Position.Y = 176.000000000000000000
+    TabOrder = 3
+    Text = 'Button1'
+  end
+  object MainMenu1: TMainMenu
+    Left = 16
+  end
+end
